@@ -3,7 +3,7 @@ Mod Name: Guards Use Vanilla Open Helms
 
 Version: 1.0.0
 
-Author: Matthew R. Karlsen (quixoticynic)
+Author: Matthew R. Karlsen
 
 Q. What does "Guards Use Vanilla Open Helms" actually do?
 
@@ -23,11 +23,11 @@ Place the .esp file in your Skyrim Data directory, such as "C:\Program Files\ste
 
 Q. Can I suggest improving the mod by doing x, y, or z?
 
-I would be interested in any suggestions. Please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+I would be interested in any suggestions. Please contact me via a GitHub issue.
 
 Q. Can I report a bug?
 
-The mod is very simple and should be completely bug free. If you do experience problems then please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+The mod is very simple and should be completely bug free. If you do experience problems then please raise a GitHub issue.
 
 Q. Do you have any other mods?
 
@@ -35,9 +35,10 @@ Yes, but they are currently not converted to SSE. Please keep a look out for the
 
 License:
 
-Formally, the mod is released under the BSD 2-Clause License:
+The .esp file contains data that belongs to the game's creators and is supplied under their particular license.
+The changes specific to this mod, made by the mod authors, are released under the BSD 2-Clause License below:
 
-Copyright (c) 2014-2016, Matthew R. Karlsen (quixoticynic)
+Copyright (c) 2014-2016, Matthew R. Karlsen
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
